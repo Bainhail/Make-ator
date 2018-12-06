@@ -1,8 +1,8 @@
-# Makecator
+# Make-ator
 
 Description:
 
-Makecator un "petit" script de creation de Makefile, c'est egalement mon premier script.
+Make-ator un "petit" script de creation de Makefile, c'est egalement mon premier script.
 N'hesitez a faire des feedback :)
 
 Installation:
